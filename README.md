@@ -32,10 +32,10 @@ Slide de  Fotos
 
 <a href="https://daniloaugusto9101.github.io/slideimg" title="Danilo" target="_blank">
 <p>Site demo clique aqui</p>
-<!-- <img src="site.mp4" width="800px"></a> -->
-<video width="800px" controls>
+<img src="site.gif" width="800px"></a>
+<!-- <video width="800px" controls>
   <source src="site.mp4" type="video/mp4">
-</video>
+</video> -->
 
 </div>
 
