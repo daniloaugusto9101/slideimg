@@ -1,5 +1,5 @@
 :root{
-    --largura: 400px;
+    --largura: 360px;
     --altura: calc(var(--largura)/2) 
 }
 
@@ -51,7 +51,7 @@ body{
 .container-btn{
     position: absolute;
     width: var(--largura);
-    margin-top: -2%;
+    margin-top: 150px;
     display: flex;
     justify-content: center;
     /* background: gray; */
@@ -92,7 +92,7 @@ body{
 }
 
 .navigation-auto div{
-    border: 2px solid blue;
+    border: 1px solid #fff;
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
@@ -102,7 +102,7 @@ body{
 .navigation-auto{
     position: absolute;
     width: var(--largura);
-    margin-top: 12.6%;
+    margin-top: 150px;
     display: flex;
     justify-content: center;
     gap: 20px;
