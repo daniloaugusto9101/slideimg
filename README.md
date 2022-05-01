@@ -1,9 +1,9 @@
 <p align="center">
- Projeto de Menu Sticky
+ Projeto de Slide de  Fotos
 </p>
 
 <h1 align="center"> 
-Menu sticky
+Slide de  Fotos
 </h1>
 
 # Tabela de Conteúdos
@@ -23,7 +23,7 @@ Menu sticky
 - [x] Criação de páginas html
 - [x] Estilizando o CSS
 - [x] Animação com JavaScript
-- [x] Estilização menu sticky
+- [x] Estilização Slide de Fotos
 - [x] Publicação no git.io
 
 
