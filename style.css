@@ -1,5 +1,5 @@
 :root{
-    --largura: 800px;
+    --largura: 400px;
     --altura: calc(var(--largura)/2) 
 }
 
@@ -102,7 +102,7 @@ body{
 .navigation-auto{
     position: absolute;
     width: var(--largura);
-    margin-top: 27.3%;
+    margin-top: 12.6%;
     display: flex;
     justify-content: center;
     gap: 20px;
